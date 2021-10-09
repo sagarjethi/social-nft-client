@@ -1,0 +1,16 @@
+{
+  "short_name": "Pub Sq",
+  "name": "Public Square",
+  "description": "A microblog living on the XRPL blockchain",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#baa1be",
+  "background_color": "#121212"
+}
