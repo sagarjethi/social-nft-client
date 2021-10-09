@@ -1,24 +1,23 @@
-# public-square
+# social-nft-client
 
 ### Installation
 
 Clone repo with SSH
 
 ```
-git clone git@github.com:MateoXRP/public-square.git
+git clone  repo
 
 ```
 
 Or clone with http
 
 ```
-git clone https://github.com/MateoXRP/public-square.git
-```
+git clone repo
 
 Move into repo root folder and install dependencies using npm or yarn
 
 ```
-cd public-square
+cd repo
 npm install
 ```
 
